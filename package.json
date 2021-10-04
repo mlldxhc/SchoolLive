@@ -1,0 +1,21 @@
+{
+  "name": "SchoolLive",
+  "version": "1.0.0",
+  "description": "嘿嘿嘿",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs --temp .temp",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlldxhc/SchoolLive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlldxhc/SchoolLive/issues"
+  },
+  "homepage": "https://github.com/mlldxhc/SchoolLive#readme"
+}

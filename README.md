@@ -1,2 +1,1 @@
-# ShcoolLive
-がっこうぐらし
+# Hello VuePress
